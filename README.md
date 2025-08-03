@@ -34,9 +34,8 @@ This stage includes:
 **Power BI Integration & Visualization:Importing the cleansed data into Power BI Desktop for interactive exploration. 
       Generating compelling visualizations to demonstrate key findings: 
       * Distribution of schools using histograms and box plots.
-      * Time-based analysis of ride patterns (hourly, daily, monthly).
-      * Seasonal trends in fare pricing through visualizations.  
-      * Geographic distribution of rides presented via maps.
+       
+      * Geographic distribution of latitude and longitide presented via maps.
 
 
 
