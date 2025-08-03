@@ -57,6 +57,67 @@ This stage includes:
 
 **Load the dataset into a Pandas DataFrame using Python**
 
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/9f655ce6-09e2-40b1-8922-245ef544ebab" />
+
+**Handle missing values, inconsistent formats**
+
+<img width="959" height="506" alt="handling missing values" src="https://github.com/user-attachments/assets/ac969a3d-ba89-4ea9-8175-c16e0bcc2b86" />
+
+
+**Data transformation - Encoding**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/5a0f11d2-e184-49ea-abbf-4d4ab41ddb17" />
+
+
+
+**Exploratory Data Analysis**
+
+**MEAN FOR ALL NUMERIC VALUES**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/0cddf27c-7e56-4e02-9a91-1e3aa88d49d7" />
+
+
+**MEDIAN FOR ALL NUMERIC VALUES**
+
+
+<img width="959" height="506" alt="Image" src="https://github.com/user-attachments/assets/51ba01f1-cf91-46a7-ac3b-e46e403869a9" />
+
+
+**MODE  FOR EACH YEAR**
+
+
+<img width="955" height="539" alt="Image" src="https://github.com/user-attachments/assets/70d5208a-9ac7-428b-b360-b8bc0c5a766a" />
+
+
+**STANDARD DEVIATION  FOR EACH YEAR**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/df7eb426-d1ac-4f66-9fad-8ce37b60cb9a" />
+
+
+
+
+**HISTOGRAM VISUALIZATION**
+
+Code for histogram
+
+<img width="925" height="229" alt="Image" src="https://github.com/user-attachments/assets/36db894e-04b1-48de-9b45-4c97776614fe" />
+
+
+
+**ITS OUTPUT**
+
+
+<img width="1489" height="985" alt="Image" src="https://github.com/user-attachments/assets/d095b682-7ab3-41e4-a81e-7fdff8060706" />
+
+
+
+
+
+
+
 
 
 
