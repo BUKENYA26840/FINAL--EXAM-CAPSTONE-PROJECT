@@ -38,9 +38,14 @@ This stage includes:
       * Seasonal trends in fare pricing through visualizations.  
       * Geographic distribution of rides presented via maps.
 
+
+
+
+
 **Dashboard Design & Reporting** 
     *Designing a professional dashboard with interactive slicer, drill through and filters for deep exploration.
-    *Creating visually engaging reports to present key findings.
+    
+   *Creating visually engaging reports to present key findings.
 
     
 
