@@ -43,9 +43,22 @@ This stage includes:
 
 
 **Dashboard Design & Reporting** 
-    *Designing a professional dashboard with interactive slicer, drill through and filters for deep exploration.
+
+
+   *Designing a professional dashboard with interactive slicer, drill through and filters for deep exploration.
+
     
    *Creating visually engaging reports to present key findings.
+
+
+
+ **HERE ARE SOME OF THE RESULTS WITH THEIR LABELS:**
+
+
+**Load the dataset into a Pandas DataFrame using Python**
+
+
+
 
     
 
