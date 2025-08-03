@@ -114,6 +114,68 @@ Code for histogram
 
 
 
+**Boxplot distribution for each year**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/815e2df8-37b2-4199-8d64-d490b7f75d1d" />
+
+
+
+**Training linear regression model**
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/05f10a7d-c74b-486e-a36c-1dd775ad4c80" />
+
+
+**Evaluating metrics- R2 SCORE**
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/c506eaaa-c5b4-48ad-93f3-b401e10be22e" />
+
+**As Incorporate innovation; i built and compared three regression models and combine them into Ensemble model**
+
+
+<img width="959" height="539" alt="Image" src="https://github.com/user-attachments/assets/3ff51829-2a63-4137-abc5-16e4d028e14b" />
+
+
+**POWERBI**
+
+**GROWTH RATE % 2009 TO 20023 -DAX FORMULAS  I HAVE USED**
+<img width="959" height="499" alt="Image" src="https://github.com/user-attachments/assets/a07b3afa-507b-4905-99c2-bb36eb193df0" />
+
+
+
+**AVERAGE FOR 2023 ENROLLMENT -DAX FORMULAS  I HAVE USED**
+
+
+<img width="959" height="337" alt="Image" src="https://github.com/user-attachments/assets/50157db4-010f-4e0f-b786-28ea0dbb1b90" />
+
+
+
+
+
+
+**FINAL PROJECT DASHBOARD**
+
+**In my visuals , i have used:**
+
+1.Card
+2.Gauge
+3. Map
+4. Ribbon chart
+5. Column chart 
+
+
+**DASHBOARD - OVERVIEW (Page1)**
+
+
+<img width="959" height="539" alt="dashboard-page1" src="https://github.com/user-attachments/assets/8064f328-5562-4032-9bc6-8cc7923375cd" />
+
+
+
+**DASHBOARD - TRENDS (Page2)**
+
+
+<img width="959" height="539" alt="dashboard-page2" src="https://github.com/user-attachments/assets/7cdef412-7f08-4e72-8238-f5df487f2f9f" />
+
 
 
 
